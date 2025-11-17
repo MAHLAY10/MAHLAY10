@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAHLAY10
-- 👀 I’m interested in programming, web development and gaming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on front end mentor projects
+- 👀 I’m interested in programming, web development, data analysics and gaming
+- 🌱 I was into web development but not diverting into data analytics
+- 💞️ I’m looking to collaborate and learn through mentors and projects
 - 📫 How to reach me: demsco2006@gmail.com
 
 <!---
