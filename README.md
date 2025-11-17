@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MAHLAY10
+- 👋 Hi, I’m Demilade
 - 👀 I’m interested in programming, web development, data analysics and gaming
-- 🌱 I was into web development but not diverting into data analytics
+- 🌱 I was into web development but now diverting into data analytics
 - 💞️ I’m looking to collaborate and learn through mentors and projects
 - 📫 How to reach me: demsco2006@gmail.com
 
